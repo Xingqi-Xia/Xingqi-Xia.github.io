@@ -1,0 +1,7 @@
+remote_theme: pages-themes/midnight@v0.2.0
+title: "Xingqi-Xia's Homepage"
+# tagline: [A very short description of your site's purpose, used as subtitle]
+# description: "I'm ... not available now"
+# email: 2300011409@stu.pku.edu.cn
+plugins:
+- jekyll-remote-theme
